@@ -1,0 +1,22 @@
+{
+  "name": "my-aframe-sandbox",
+  "version": "1.0.0",
+  "description": "aframe sandbox from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schropes/my-aframe-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schropes/my-aframe-sandbox/issues"
+  },
+  "homepage": "https://github.com/schropes/my-aframe-sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
